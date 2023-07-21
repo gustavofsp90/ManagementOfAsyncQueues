@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\bin\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.exe
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\bin\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.deps.json
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\bin\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.runtimeconfig.json
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\bin\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\bin\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.dll
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\bin\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.pdb
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\obj\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\obj\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\obj\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\obj\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\obj\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\obj\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.dll
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\obj\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.pdb
+C:\Users\gusta\source\repos\Projetos Pessoais\gerenciamentoDeFilaAssincrona\gerenciamentoDeFilaAssincrona\obj\Debug\netcoreapp3.1\gerenciamentoDeFilaAssincrona.genruntimeconfig.cache
